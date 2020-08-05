@@ -1,0 +1,6 @@
+Anomaly Detection
+Recommender Systems
+Stochastic and Mini-Batch GD
+Photo OCR!
+Cogworks KNN
+Convert scratch to Scikit
